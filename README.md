@@ -8,6 +8,6 @@ Utilizando o Spring Boot como framework para a conexão e configurações padrã
 
 Recursos explorados:
 
-strings e listas
-conjuntos
-hashes
+- strings e listas
+- conjuntos
+- hashes
